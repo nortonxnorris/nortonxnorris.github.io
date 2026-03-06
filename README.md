@@ -14,8 +14,8 @@ Welcome to my page!
 
 | **Repo**                                     | **Links**                                                           |
 |----------------------------------------------|---------------------------------------------------------------------|
-| Information Protection                       | [Link](./nortonxnorris/Purview-Information-Protection/blob/main/README.md)        |
-| Data Lifecycle Management                    | [Link](./nortonxnorris/Data-Lifecycle-Management/blob/main/README.md)             |
+| Information Protection                       | [Link](https://github.com/nortonxnorris/Purview-Information-Protection/blob/main/README.md)   |
+| Data Lifecycle Management                    | [Link](https://github.com/nortonxnorris/Data-Lifecycle-Management/blob/main/README.md)        |
 
 ---
 
