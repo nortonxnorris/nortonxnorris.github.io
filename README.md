@@ -3,7 +3,7 @@
 ---
 ## 🔭 whoami
 - 💼💻 Sr. Consultant | ☁️🛡️ Security, Identity & AI | 🎓 11x Microsoft Certified
-- 🎓 Previously GIAC Certified: GCIH, GPEN, GSEC
+- 🎓 Previously GIAC Certified: GCIH, GPEN, GSEC, GSIF
 - 🔭 Helping customers strengthen data protection (**Purview**), prepare for Copilot and AI (**DSPM**), streamline identity security (**Entra ID & Conditional Access**), and elevate their email, endpoint and cloud security (**Defender XDR**)
 - Mission: Empowering our customers to achive more, and in **Becoming Frontier**
 ---
