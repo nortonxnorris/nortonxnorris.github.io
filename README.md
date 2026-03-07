@@ -1,5 +1,7 @@
 ## Hi, I'm Norton 👋
 📍 **Chicago**     🛡️ **Security, Identity and AI**  @ ![Microsoft](https://img.shields.io/badge/Microsoft-green?logo=Microsoft)
+
+
 ---
 ## 🔭 whoami
 - 💼💻 Sr. Consultant - ☁️🛡️ Security, Identity & AI - 🎓 11x Microsoft Certified
@@ -58,4 +60,6 @@
 - Microsoft 365 Fundamentals
 - Azure Fundamentals
 - Azure AI Fundamentals
+
+
 ---
