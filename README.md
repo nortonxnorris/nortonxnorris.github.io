@@ -26,6 +26,13 @@
 [![On-Premise Scanner](https://img.shields.io/badge/MIPScanner-green)](https://github.com/nortonxnorris/Purview-Information-Protection/blob/main/Pages/InformationProtectionScanner.md)
 ---
 
+### Microsoft Purview Data Lifecycle Management Series
+- [Data Lifecycle Management](https://github.com/nortonxnorris/Purview-Data-Lifecycle-Management)
+
+[![MRM](https://img.shields.io/badge/MRM-grey)](https://github.com/nortonxnorris/Purview-Data-Lifecycle-Management/blob/main/Pages/MRM-MessagingRecordsManagement.md)
+
+---
+
 ## ✅ Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)]([URL](https://www.linkedin.com/in/nortonxnorris/))
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nortonxnorris)
