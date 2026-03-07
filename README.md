@@ -13,8 +13,9 @@
 
 | **Repo**                                     | **Links**                                                           |
 |----------------------------------------------|---------------------------------------------------------------------|
-| Information Protection(WIP)                  | [Link](https://github.com/nortonxnorris/Purview-Information-Protection/blob/main/README.md)   |
-| Data Lifecycle Management                    | [Link](https://github.com/nortonxnorris/Data-Lifecycle-Management/blob/main/README.md)        |
+| Information Protection(WIP)                  | [Link](https://github.com/nortonxnorris/Purview-Information-Protection)   |
+| Data Lifecycle Management                    | [Link](https://github.com/nortonxnorris/Data-Lifecycle-Management)        |
+| Email Security                               | [Link](https://github.com/nortonxnorris/Email-Security)                   |
 
 ---
 
@@ -25,10 +26,10 @@
 
 [![Exact Data Match](https://img.shields.io/badge/EDM-blue)](https://github.com/nortonxnorris/Purview-Information-Protection/blob/main/Pages/ExactDataMatch.md)
 [![On-Premise Scanner](https://img.shields.io/badge/MIPScanner-green)](https://github.com/nortonxnorris/Purview-Information-Protection/blob/main/Pages/InformationProtectionScanner.md)
+
 ---
 
 ### Microsoft Purview Data Lifecycle Management Series
-- [Data Lifecycle Management](https://github.com/nortonxnorris/Purview-Data-Lifecycle-Management)
 
 [![MRM](https://img.shields.io/badge/MRM-grey)](https://github.com/nortonxnorris/Purview-Data-Lifecycle-Management/blob/main/Pages/MRM-MessagingRecordsManagement.md)
 
