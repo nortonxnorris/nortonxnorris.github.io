@@ -40,6 +40,8 @@
 ## ✅ Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/nortonxnorris/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nortonxnorris)
+
+
 ---
 
 ## 🎓 Credentials
