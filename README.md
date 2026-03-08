@@ -15,6 +15,7 @@
 
 | **Repo**                                     | **Links**                                                           |
 |----------------------------------------------|---------------------------------------------------------------------|
+| Data Security & Compliance for AI            | [Link](https://github.com/nortonxnorris/Copilot-and-AI)                   |
 | Information Protection(WIP)                  | [Link](https://github.com/nortonxnorris/Purview-Information-Protection)   |
 | Data Lifecycle Management                    | [Link](https://github.com/nortonxnorris/Data-Lifecycle-Management)        |
 | Email Security                               | [Link](https://github.com/nortonxnorris/Email-Security)                   |
