@@ -1,11 +1,11 @@
 ## Hi, I'm Norton 👋
-📍 **Chicago**     🛡️ **Security, Identity and AI**  @ ![Microsoft](https://img.shields.io/badge/Microsoft-green?logo=Microsoft)
+📍 **Chicago**     🛡️ **Microsoft Purview & AI Data Security**  @ ![Microsoft](https://img.shields.io/badge/Microsoft-green?logo=Microsoft)
 
 
 ---
 ## 🔭 whoami
-- 💼💻 Sr. Consultant - ☁️🛡️ Security, Identity & AI - 🎓 11x Microsoft Certified
-- 🎓 Previously GIAC Certified: GCIH, GPEN, GSEC, GSIF
+- 💼💻 Sr. Consultant - ☁️🛡️ Microsoft Purview & AI data security - 🎓 11x Microsoft Certified
+- 🎓 Previously GIAC Certified: GCIH, GPEN, GSEC, GISF
 - 🔭 Helping customers strengthen data protection (**Purview**), prepare for Copilot and AI (**DSPM**), streamline identity security (**Entra ID & Conditional Access**), and elevate their email, endpoint and cloud security (**Defender XDR**)
 - Mission: Empowering our customers to achieve more, and in **Becoming Frontier**
 
